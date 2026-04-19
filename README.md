@@ -138,9 +138,9 @@ Contributions are welcome! Here's how you can help:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Email: your.email@example.com
+- GitHub:[Akash Jyoti Kalita](https://github.com/akashkalita987)
+- LinkedIn:[Akash Jyoti Kalita](https://www.linkedin.com/in/akash-jyoti-kalita-178783341?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Email: akashjyotikalita76@gmail.com
 
 ---
 
