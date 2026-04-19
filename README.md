@@ -5,7 +5,6 @@ A beautifully crafted, cross-platform personal finance management application bu
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ---
 
@@ -23,7 +22,7 @@ A beautifully crafted, cross-platform personal finance management application bu
 
 | Home | Transactions | Analytics |
 |------|-------------|-----------|
-| ![Home](./screenshots/home.png) | ![Transactions](./screenshots/transactions.png) | ![Analytics](./screenshots/analytics.png) |
+| ![Home](https://github.com/akashkalita987/Finance-app/blob/main/assets/icons/images/home.jpg) | ![Transactions](https://github.com/akashkalita987/Finance-app/blob/main/assets/icons/images/Transaction.jpg) | ![Analytics](https://github.com/akashkalita987/Finance-app/blob/main/assets/icons/images/analysis.jpg) |
 
 ---
 
