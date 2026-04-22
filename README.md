@@ -18,8 +18,6 @@ A beautifully crafted, cross-platform personal finance management application bu
 
 ## 📱 Screenshots
 
-> _Add your app screenshots here_
-
 | Home | Transactions | Analytics |
 |------|-------------|-----------|
 | ![Home](https://github.com/akashkalita987/Finance-app/blob/main/assets/icons/images/home.jpg) | ![Transactions](https://github.com/akashkalita987/Finance-app/blob/main/assets/icons/images/Transaction.jpg) | ![Analytics](https://github.com/akashkalita987/Finance-app/blob/main/assets/icons/images/analysis.jpg) |
