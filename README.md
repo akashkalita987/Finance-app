@@ -29,9 +29,6 @@ A beautifully crafted, cross-platform personal finance management application bu
 - 📊 **Dashboard Overview** — Get a quick summary of your income, expenses, and balance
 - 💸 **Transaction Tracking** — Log and categorize your daily transactions
 - 📈 **Analytics & Reports** — Visualize your spending habits with charts and graphs
-- 🗂️ **Budget Management** — Set and manage monthly budgets per category
-- 🔔 **Smart Notifications** — Get reminders and alerts for bills and budget limits
-- 🌙 **Dark / Light Mode** — Seamless theme switching for comfortable use
 - 🔒 **Secure & Private** — Your financial data stays on your device
 
 ---
